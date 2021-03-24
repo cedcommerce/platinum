@@ -1,8 +1,5 @@
 {
     "name": "cedcommerce/platinum",
     "description": "Cedcommerce platinum package",
-    "type": "magento2-module",
-    "license": [
-        "EULA"
-    ]
+    "type": "magento2-module"
 }
